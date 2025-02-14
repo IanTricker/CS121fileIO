@@ -11,7 +11,6 @@ sstream
 ifstream inFile
 string currentLine
 stringstream converter
-int counter
 string sNum1
 string sNum2
 string text
